@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndiNawfal001
-- 🌱 I’m currently learning laravel + tailwind 
 - 📫 You can reach me in nawfaldzikra1611@gmail.com
 
 <!---
